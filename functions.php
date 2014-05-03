@@ -8,7 +8,7 @@
  */
 final class Kc_Child_Theme {
 
-	const VERSION = '0.1';
+	const VERSION = '0.1.1';
 
 
 	/**
